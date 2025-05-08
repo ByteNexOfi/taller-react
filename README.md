@@ -22,7 +22,7 @@ src/
 ├── index.css
 └── main.jsx
 
-## 📸 Captura de pantalla
+## Captura de pantalla
 
 ![Vista previa](./screenshot.jpg)
 
