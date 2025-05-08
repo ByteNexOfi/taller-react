@@ -22,5 +22,9 @@ src/
 ├── index.css
 └── main.jsx
 
+## 📸 Captura de pantalla
+
+![Vista previa](./screenshot.jpg)
+
 
 ## Por: Santiago Andres Rivas Chapon
